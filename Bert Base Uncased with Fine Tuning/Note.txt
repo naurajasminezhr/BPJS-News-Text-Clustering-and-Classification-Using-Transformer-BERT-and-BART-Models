@@ -1,0 +1,1 @@
+Model terlalu besar, 1 model 400 MB sehingga akan diletakkan di dalam drive
