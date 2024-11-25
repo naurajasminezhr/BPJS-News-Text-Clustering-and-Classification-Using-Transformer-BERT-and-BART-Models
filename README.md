@@ -1,8 +1,5 @@
 # BPJS-News-Text-Clustering-and-Classification-Using-Transformer-BERT-and-BART-Models
 
----
-
-# **News Text Clustering and Classification Using BERT and BART Models**
 
 ## **Project Description**
 This project aims to analyze news text using transformer-based approaches. The main processes in this project include:
