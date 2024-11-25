@@ -37,10 +37,19 @@ TRANSFORMER-FIX/
 │   └── Kolom Judul_Transformers.ipynb
 ├── Bert Base Uncased with Fine Tuning/
 │   ├── Pakai Kolom Text_Berita/
+│   │   ├── Clustering and Embedding_with fine tuned model.ipynb
+│   │   ├── data_with_clusters.xlsx
+│   │   ├── text_berita_embeddings.pkl
+│   │   └── Transformers_Fine Tuning_teks berita.ipynb
 │   ├── Pakai Kolom Text_Berita_Clean/
+│   │   ├── Clustering-Embedding_Teks Clean_with fine tuned model.ipynb
+│   │   ├── data_with_clusters_clean_fine_tuning_model.xlsx
+│   │   ├── text_berita_clean_embeddings_fine_tuning_model.pkl
+│   │   └── Transformers-Teks Clean_Fine Tuning.ipynb
 │   └── Note.txt
 ├── data_ready_with_kategori.xlsx
-└── Klasifikasi_Kategori_NEWS_BPJS_BART.ipynb
+├── Klasifikasi_Kategori_NEWS_BPJS_BART.ipynb
+└── README.md
 ```
 
 ---
